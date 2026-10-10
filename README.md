@@ -4,7 +4,7 @@
 ### Team Details
 #### **Team Name** : Syntax Error <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Dayscholor / Hosteller |
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | 🏡 Dayscholor / Hosteller |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------:| 
 |   Team Leader   |     Sharvesh JB      |           CB.EN.U4CCE26149             |        Male         |              CCE                   |  Dayscholor |
 |    Member 2     |         Roahith P                |         CB.EN.U4CCE26144               |        Male         |                CCE                 |  Dayscholor |
