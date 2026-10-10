@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I006
 ### Team Details
-#### **Team Name** Syntax Error <br/>
+#### **Team Name** : Syntax Error <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Dayscholor / Hosteller |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------:| 
